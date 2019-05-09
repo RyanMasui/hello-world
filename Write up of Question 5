@@ -1,0 +1,13 @@
+I clicked the github.com/trending link and then I clicked the microsoft/terminal tab.
+
+One of the problems I found in this is: Improve 'startingDirectory' functionality #604. 
+Looking at this problem it looks like multiple people look at the problem and input what they 
+believe is the best solution to solve that matter. 
+To keep the community all organized they have multiple numbers next to everything they do 
+Examples: 
+- Fix downlevel support for traditional console #562
+- static analyis fixes #553
+The repository/project is organized by having requirements. In this one you need
+- At least 2 approving reviews who have write access
+- 4 checks that have passed 
+- And merging performed by 2 approving reviews. 
